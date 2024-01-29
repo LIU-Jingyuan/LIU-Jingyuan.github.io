@@ -347,8 +347,8 @@ hr {
 }
 
 ol.publication {
-  display: flex;
-  flex-direction: column-reverse;
+  /*display: flex;
+  flex-direction: column-reverse;*/
   list-style: none;
   margin: 7px 0 7px 0;
   padding: 0;
@@ -376,7 +376,8 @@ ol.publication.C-list li p {
 }
 
 ol.publication.C-list li p:before {
-  content: "[C"counter(C-counter)"]";
+  /*content: "[C"counter(C-counter)"]";*/
+  content: "["counter(C-counter)"]";
 }
 
 ol.publication.J-list {
