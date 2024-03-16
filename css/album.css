@@ -3,7 +3,7 @@ https://www.w3schools.com/howto/howto_js_slideshow.asp
 * {box-sizing:border-box}
 *************************************************************************/
 
-.mySlides1, .mySlides2, .mySlides3, .mySlides4, .mySlides5 {display: none}
+.mySlides0, .mySlides1, .mySlides2, .mySlides3, .mySlides4, .mySlides5 {display: none}
 img {vertical-align: middle;}
 
 /* Slideshow container */
